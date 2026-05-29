@@ -10,7 +10,7 @@ I’m particularly interested in **machine learning**, **cloud engineering**, an
 
 Let’s connect and build something useful.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Joseph-Rebert-black?style=for-the-badge\&logo=github)](https://github.com/Joseph-Rebert)
+[![GitHub](https://img.shields.io/badge/GitHub-Joseph_Rebert-black?style=for-the-badge\&logo=github)](https://github.com/Joseph-Rebert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO_URL)
 

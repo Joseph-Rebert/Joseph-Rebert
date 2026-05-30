@@ -11,8 +11,8 @@ I’m particularly interested in **machine learning**, **cloud engineering**, an
 Let’s connect and build something useful.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Joseph_Rebert-black?style=for-the-badge\&logo=github)](https://github.com/Joseph-Rebert)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/joseph-rebert-9243192b3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge\&logo=vercel)](https://joseph-rebert.github.io/Portfolio-Website/)
 
 ---
 
@@ -33,7 +33,7 @@ Let’s connect and build something useful.
 
 ### Visit my
 
-[Portfolio](YOUR_PORTFOLIO_URL) - [LinkedIn](YOUR_LINKEDIN_URL)
+[Portfolio](https://joseph-rebert.github.io/Portfolio-Website/) - [LinkedIn](https://www.linkedin.com/in/joseph-rebert-9243192b3/)
 
 ---
 
@@ -42,14 +42,4 @@ Let’s connect and build something useful.
 * I’m interested in building products that go from idea to real users
 * I’m looking to collaborate on **AI, full-stack, and cloud-based projects**
 * Ask me about **Python, machine learning, web development, or building project prototypes**
-* How to reach me: [LinkedIn](YOUR_LINKEDIN_URL)
-
----
-
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephrebert05\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephrebert05\&layout=compact\&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=josephrebert05\&theme=tokyonight\&no-frame=true\&row=1)
-
----
+* How to reach me: [LinkedIn](https://www.linkedin.com/in/joseph-rebert-9243192b3/)
